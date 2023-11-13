@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: coral;
+  }
+  .converter-container {
+    text-align: center;
+  }
+  .input-container {
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 10px;
+    background-color: #18b5f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
